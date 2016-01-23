@@ -8,6 +8,7 @@ slidenumbers: true
 ---
 
 # Git, GitHub, and Devpost
+## Andrew Kerr <me@andrewjkerr.com>
 
 ^ please download git!!!!!!
 
