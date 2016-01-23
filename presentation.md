@@ -54,6 +54,7 @@ slidenumbers: true
 - Fifth year Software Engineering @ UF
 - Officer of the UF Student InfoSec Team
 - Full stack web developer
+- Currently web eng lead at Quottly
 - Former security intern at Tumblr
 
 ^ Turns out you can do both!
@@ -68,6 +69,7 @@ slidenumbers: true
 - Fifth year Software Engineering @ UF
 - Officer of the UF Student InfoSec Team
 - Full stack web developer
+- Currently web eng lead at Quottly
 - Former security intern at Tumblr
 - Former intern at BlockScore
 
@@ -81,9 +83,23 @@ slidenumbers: true
 - Fifth year Software Engineering @ UF
 - Officer of the UF Student InfoSec Team
 - Full stack web developer
+- Currently web eng lead at Quottly
 - Former security intern at Tumblr
 - Former intern at BlockScore
 - Reach me @andrew on Slack
 
 ^ hmu if you have questions or w/e
+
+---
+
+## git
+
+---
+
+## at it's core, git is version control
+
+---
+
+## so what is version control?
+
 
